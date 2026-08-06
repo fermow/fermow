@@ -22,7 +22,7 @@
 
 I'm **Mobin Abedian**, a Computer Science undergraduate at **Shahid Beheshti University** with a strong focus on **Artificial Intelligence, Machine Learning, and software engineering for real-world AI products**.
 
-- 🤖 AI Team Member at **Arghavan Tejarat Hooshmand Sharif (THS)**
+- 🤖 AI Team Member at **[Arghavan Tejarat Hooshmand Sharif (THS)](https://athsco.ir/)**
 - 🧠 Interested in **AI research, LLM-based agents, deep learning, data systems, and system design**
 - ⚙️ Building **AI-driven products, automation workflows, backend services, and intelligent data pipelines**
 - 🐍 Working mainly with **Python**, **FastAPI / Flask**, **PostgreSQL**, **Docker**, and **Linux**
