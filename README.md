@@ -51,28 +51,28 @@ focused on **AI research, LLM agents, backend engineering & intelligent automati
 <tr>
 <td align="center">
 
-** CURRENTLY**
+**CURRENTLY**
 
 AI Team @ **ATHS**
 
 </td>
 <td align="center">
 
-**⚡ BUILDING**
+**BUILDING**
 
 AI-powered products
 
 </td>
 <td align="center">
 
-**🔬 EXPLORING**
+**EXPLORING**
 
 Deep Learning · Edge AI
 
 </td>
 <td align="center">
 
-** MINDSET**
+**MINDSET**
 
 Research → Build → Ship
 
@@ -107,7 +107,7 @@ Research → Build → Ship
 
 ---
 
-## 📊 GitHub
+##  GitHub
 
 <div align="center">
 
