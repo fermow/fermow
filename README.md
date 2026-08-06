@@ -52,16 +52,38 @@ FastAPI · PostgreSQL · Docker · a bit of Go and Java. Lately a lot of LangGra
 and Linux-first self-hosting.
 
 **Outside of code:** math, algorithms, computer architecture, and lately
-pretending I can wire up biology (bioinformatics) — the edge of AI and public
-health concerns me more every day. Also, mostly deep-diving a subject before
-committing to something; the whole "read N sources first" instinct.
+pretending I can wire up biology (bioinformatics) — the edge of AI and
+healthcare feels both exciting and overdue. And I explore data mostly by
+building graphs and dashboards just to see the shape of it.
 
-I care less about the repo being impressive and more about the thing being
-desirable to run it — production, ease, and self-hosting. Build it, run it,
-throw it away, reuse it.
+I care less about a repo *looking* impressive and more about it being
+genuinely satisfying to run — reliability, ease of deploy, and self-hosting.
 
 ---
 
-📫 reachable — otherwise you'll find me where the code is, or in Tehran.
-GitHub → [@fermow](https://github.com/fermow)
+### 👤 About me
+
+A few things that don't fit neatly into repos:
+
+- **How I work:** I rarely decide at the first google result — I'll read several
+  sources, argue with them, then commit. Which is slow, but it sticks.
+- **How I learn:** the opposite of memorizing APIs — building the thing by hand
+  until the "why" is obvious. It's why I'd rather implement linear regression
+  from scratch than just call a library.
+- **What pulls me in:** LLMs and agents (seeing an instruction become a
+  decision is still winding), system design, backend architecture, data-graph
+  visualization, and anything where optimization can kill the boring, repetitive
+  part of a job.
+- **What's next I'm curious about:** EdTech done right, and the messy, hard,
+  lonely edge of bioinformatics — where AI meets public health and where
+  badly-built algorithms have real consequences.
+- **The point of all of it:** code is the means. I care about one thing being in
+  production of someone's day and changing something — one product, shipped, that
+  lasts. Give me good coffee and an unclear problem-statement that's worth
+  untangling — only then does it click into place.
+
+---
+
+📫 Yeah, sometimes — otherwise you'll find me where the code counts, or in
+Tehran. GitHub → [@fermow](https://github.com/fermow)
 ```
