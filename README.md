@@ -29,49 +29,58 @@
 
 ---
 
+## 👋 About Me
+
+<div align="center">
+
+### Building intelligent systems from **research → product**.
+
+Computer Science student at **Shahid Beheshti University**  
+focused on **AI research, LLM agents, backend engineering & intelligent automation.**
+
+<br/>
+
+<img src="https://img.shields.io/badge/AI%20Research-0D1117?style=for-the-badge&logo=openai&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/LLM%20Agents-0D1117?style=for-the-badge&logo=openai&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/AI%20Products-0D1117?style=for-the-badge&logo=probot&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/Python%20Backend-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B" />
+
+<br/><br/>
+
 <table>
 <tr>
-<td width="58%" valign="top">
+<td align="center">
 
-## 👨‍💻 About
+**🧠 CURRENTLY**
 
-```yaml
-name: Mobin Abedian
-role: AI Engineer & CS Student
-university: Shahid Beheshti University
-location: Tehran, Iran
-
-focus:
-  - AI Research
-  - LLM Agents
-  - AI Product Development
-  - Python Backend
-  - Data & Automation
-
-currently_exploring:
-  - Deep Learning
-  - System Design
-  - Edge AI / FPGA
-```
+AI Team @ **ATHS**
 
 </td>
-<td width="42%" valign="top">
+<td align="center">
 
-## ⚡ Now
+**⚡ BUILDING**
 
-```python
-mobin = {
-    "team": "ATHS / AI",
-    "gpa": "18.4 / 20",
-    "main": "Python",
-    "mindset": "research → product",
-    "status": "building..."
-}
-```
+AI-powered products
+
+</td>
+<td align="center">
+
+**🔬 EXPLORING**
+
+Deep Learning · Edge AI
+
+</td>
+<td align="center">
+
+**🎯 MINDSET**
+
+Research → Build → Ship
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
