@@ -111,15 +111,7 @@ Research → Build → Ship
 
 <div align="center">
 
-<img height="180" src="github-stats.svg" />
-
-<br/>
-
-<img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fermow&theme=github_dark" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=fermow&theme=github-dark-blue&hide_border=true" />
+<img width="95%" src="./assets/languages.svg" alt="Mobin Abedian Language Analytics" />
 
 </div>
 
