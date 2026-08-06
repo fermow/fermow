@@ -98,28 +98,6 @@ mobin = {
 
 ---
 
-## 🚀 Selected Work
-
-<div align="center">
-
-<a href="https://github.com/fermow/planner">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fermow&repo=planner&theme=github_dark&hide_border=true" />
-</a>
-<a href="https://github.com/fermow/PPR">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fermow&repo=PPR&theme=github_dark&hide_border=true" />
-</a>
-
-<a href="https://github.com/fermow/SBU-Data-Science-2026">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fermow&repo=SBU-Data-Science-2026&theme=github_dark&hide_border=true" />
-</a>
-<a href="https://github.com/fermow/Telegram_Clone">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fermow&repo=Telegram_Clone&theme=github_dark&hide_border=true" />
-</a>
-
-</div>
-
----
-
 ## 📊 GitHub
 
 <div align="center">
