@@ -84,31 +84,16 @@ A few things that don't fit neatly into repos:
 
 ---
 
----
-
 ### 📊 By the numbers
 
-if stats are your thing. (These cards read *only* my public repos, so the
-course-era HTML/Java bits are filtered out — they don't reflect what I actually
-touch.)
+Language share across my public repos (course-era HTML/Java excluded — that's
+not what I actually touch):
 
-I really use:
-
-```
-npm       /* TS · React · Node |> thing |*/
-go build
-python -m   /* ml · data · llm-research */
-```
-
-Stat cards:
-
-<!-- github-readme-stats: public repos only, private data never included -->
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fermow&layout=compact&langs_count=8&hide=html,css&title_color=ffffff&icon_color=7f9cf5&text_color=d1d5db&bg_color=0d1117&card_width=400)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fermow&count_private=false&show_icons=true&title_color=ffffff&icon_color=7f9cf5&text_color=d1d5db&bg_color=0d1117)
+![Language share](profile-langs.svg)
 
 ---
 
-📫 Yeah, sometimes — otherwise you'll find me where the code counts, or in
-Tehran. GitHub → [@fermow](https://github.com/fermow)
+📫 Reachable at [mobinabedian6@gmail.com](mailto:mobinabedian6@gmail.com) —
+otherwise you'll find me where the code counts, or in Tehran.
+GitHub → [@fermow](https://github.com/fermow)
 ```
