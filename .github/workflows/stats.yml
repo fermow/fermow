@@ -1,0 +1,31 @@
+name: refresh-language-stats
+
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["scripts/**"]
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate language chart
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python3 scripts/gen_stats.py
+          git add profile-langs.svg
+          git diff --cached --quiet || \
+            git -c user.name="stats-bot" \
+                -c user.email="mobinabedian6@gmail.com" \
+                commit -m "chore: refresh language share chart"
+      - name: Push changes
+        run: git push
