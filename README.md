@@ -140,26 +140,6 @@ mobin = {
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-<img width="96%" src="https://github-profile-trophy.vercel.app/?username=fermow&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=fermow&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true" />
-
-</div>
-
----
-
 ## 🐍 Eat. Code. Repeat.
 
 <div align="center">
