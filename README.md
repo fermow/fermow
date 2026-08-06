@@ -29,7 +29,7 @@
 
 ---
 
-## 👋 About Me
+##  About Me
 
 <div align="center">
 
@@ -51,7 +51,7 @@ focused on **AI research, LLM agents, backend engineering & intelligent automati
 <tr>
 <td align="center">
 
-**🧠 CURRENTLY**
+** CURRENTLY**
 
 AI Team @ **ATHS**
 
@@ -72,7 +72,7 @@ Deep Learning · Edge AI
 </td>
 <td align="center">
 
-**🎯 MINDSET**
+** MINDSET**
 
 Research → Build → Ship
 
@@ -84,7 +84,7 @@ Research → Build → Ship
 
 ---
 
-## 🧰 Tech
+##  Tech
 
 <div align="center">
 
@@ -125,7 +125,7 @@ Research → Build → Ship
 
 ---
 
-## 🐍 Eat. Code. Repeat.
+##  Eat. Code. Repeat.
 
 <div align="center">
 
