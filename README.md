@@ -102,9 +102,7 @@ mobin = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=fermow&show_icons=true&theme=github_dark&hide_border=true&rank_icon=percentile&include_all_commits=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fermow&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
+<img height="180" src="github-stats.svg" />
 
 <br/>
 
